@@ -1,0 +1,12 @@
+{
+  "name": "web-researcher",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "research": "node research.js"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.9.0",
+    "dotenv": "^16.0.0"
+  }
+}
